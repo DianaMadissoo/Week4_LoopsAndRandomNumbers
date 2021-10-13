@@ -1,0 +1,16 @@
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.exe
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.deps.json
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.json
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.dev.json
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfo.cs
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.genruntimeconfig.cache

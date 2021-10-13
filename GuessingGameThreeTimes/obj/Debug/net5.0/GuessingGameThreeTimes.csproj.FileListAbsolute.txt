@@ -1,0 +1,15 @@
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.exe
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.deps.json
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.runtimeconfig.json
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.runtimeconfig.dev.json
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\ref\GuessingGameThreeTimes.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.AssemblyInfo.cs
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\ref\GuessingGameThreeTimes.dll
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.genruntimeconfig.cache
